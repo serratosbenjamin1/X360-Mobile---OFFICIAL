@@ -15,11 +15,11 @@
 <p align="center">
   Choose Language / Scegli la lingua / Sprache wählen / Choisir la langue / Seleccionar idioma:
   <br>
-  <a href="README.md">🇬🇧 English</a> |
-  <b>🇮🇹 Italiano</b> |
-  <a href="README.de.md">🇩🇪 Deutsch</a> |
-  <a href="README.fr.md">🇫🇷 Français</a> |
-  <a href="README.es.md">🇪🇸 Español</a>
+  <a href="README.md">English</a> |
+  <b>Italiano</b> |
+  <a href="README.de.md">Deutsch</a> |
+  <a href="README.fr.md">Français</a> |
+  <a href="README.es.md">Español</a>
 </p>
 
 ---
@@ -32,7 +32,7 @@ Benvenuti nel repository ufficiale di **X360 Mobile**, un emulatore nativo speri
 
 ---
 
-## 🚀 Caratteristiche Principali
+## Caratteristiche Principali
 
 * **Fondamenta Native su Xenia Canary:** Il primissimo emulatore Android progettato nativamente attorno a Xenia Canary fin dal suo concepimento, invece di migrare successivamente da Xenia Master, garantendo un'architettura e prestazioni superiori.
 * **Backend Vulkan Moderno:** Sfrutta le API Vulkan 1.3 per offrire un utilizzo ottimale dell'hardware, framerate elevati e un basso sovraccarico di sistema.
@@ -43,7 +43,7 @@ Benvenuti nel repository ufficiale di **X360 Mobile**, un emulatore nativo speri
 
 ---
 
-## 📱 Requisiti di Sistema
+## Requisiti di Sistema
 
 L'emulazione di Xbox 360 è un processo sperimentale ed estremamente intenso a livello computazionale, che richiede una complessa traduzione hardware in tempo reale. Consulta la tabella seguente per comprendere le prestazioni attese sul tuo dispositivo.
 
@@ -59,7 +59,7 @@ L'emulazione di Xbox 360 è un processo sperimentale ed estremamente intenso a l
 
 ---
 
-## 📥 Guida Rapida
+## Guida Rapida
 
 1. **Scarica l'APK:** Vai nella nostra sezione [Releases](https://github.com/Ashnar2602/X360-Mobile---OFFICIAL/releases) e scarica l'ultimo pacchetto `.apk` stabile.
 2. **Abilita Origini Sconosciute:** Se richiesto, consenti al tuo browser web o al gestore file di installare applicazioni da origini sconosciute nelle impostazioni di sicurezza di Android.
@@ -70,7 +70,7 @@ L'emulazione di Xbox 360 è un processo sperimentale ed estremamente intenso a l
 
 ---
 
-## ❓ Domande Frequenti (FAQ)
+## Domande Frequenti (FAQ)
 
 ### X360 Mobile è gratuito?
 **Sì.** X360 Mobile è completamente scaricabile e utilizzabile gratuitamente. Non addebitiamo costi né includiamo pubblicità invasive che possano rovinare l'esperienza di gioco.
@@ -88,7 +88,7 @@ Per una lista di compatibilità completa e sempre aggiornata, visita il nostro s
 
 ---
 
-## 🤝 Segnalazione dei Problemi
+## Segnalazione dei Problemi
 
 Se riscontri crash, bug grafici o problemi di compatibilità:
 1. Vai nella sezione [Issues](https://github.com/Ashnar2602/X360-Mobile---OFFICIAL/issues).
@@ -101,7 +101,7 @@ Se riscontri crash, bug grafici o problemi di compatibilità:
 
 ---
 
-## ⚖️ Note Legali e Dichiarazione di Limitazione di Responsabilità
+## Note Legali e Dichiarazione di Limitazione di Responsabilità
 
 * **Xbox 360** è un marchio registrato di Microsoft Corporation. **X360 Mobile** non è in alcun modo affiliato, autorizzato, sponsorizzato o supportato da Microsoft Corporation, dalle sue collegate o dalle sue sussidiarie.
 * Tutti i titoli dei giochi, le immagini e le risorse del brand sono marchi registrati dei rispettivi proprietari.
