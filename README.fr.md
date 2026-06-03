@@ -49,7 +49,7 @@ L'émulation de la Xbox 360 est expérimentale et extrêmement lourde sur le pla
 
 | Spécification | Configuration Minimale | Recommandée (Pour des vitesses fluides) |
 | :--- | :--- | :--- |
-| **Système d'Exploitation** | Android 12 (64 bits) | Android 13 ou plus récent (64 bits) |
+| **Système d'Exploitation** | Android 11 (64 bits) | Android 13 ou plus récent (64 bits) |
 | **Processeur & GPU** | Qualcomm Snapdragon avec GPU Adreno (séries 600/700/800) | Qualcomm Snapdragon haut de gamme (recommandé Snapdragon 8 Gen 1 ou plus récent) |
 | **RAM (Mémoire)** | 6 Go de RAM | 8 Go - 12 Go de RAM (ou plus) |
 | **Stockage (Vitesse)** | Stockage haute vitesse (recommandé UFS 3.1 ou supérieur) | Stockage ultra-rapide UFS 3.1/4.0 |
