@@ -49,7 +49,7 @@ La emulación de Xbox 360 es un proceso experimental y sumamente exigente a nive
 
 | Especificación | Requisitos Mínimos | Recomendados (Para velocidad fluida) |
 | :--- | :--- | :--- |
-| **Sistema Operativo** | Android 12 (64 bits) | Android 13 o posterior (64 bits) |
+| **Sistema Operativo** | Android 11 (64 bits) | Android 13 o posterior (64 bits) |
 | **Procesador y GPU** | Qualcomm Snapdragon con GPU Adreno (series 600/700/800) | Qualcomm Snapdragon de gama alta (se recomienda Snapdragon 8 Gen 1 o superior) |
 | **RAM (Memoria)** | 6 GB de RAM | 8 GB - 12 GB de RAM (o superior) |
 | **Almacenamiento (Velocidad)** | Almacenamiento rápido (se recomienda UFS 3.1 o superior) | Almacenamiento ultra-rápido UFS 3.1/4.0 |
