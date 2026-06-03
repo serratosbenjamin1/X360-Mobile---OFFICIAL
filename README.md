@@ -49,7 +49,7 @@ Xbox 360 emulation is an experimental and computationally intense process requir
 
 | Specification | Minimum Requirements | Recommended (For Playable Speeds) |
 | :--- | :--- | :--- |
-| **Operating System** | Android 12 (64-bit) | Android 13 or newer (64-bit) |
+| **Operating System** | Android 11 (64-bit) | Android 13 or newer (64-bit) |
 | **Processor & GPU** | Qualcomm Snapdragon with Adreno GPU (600/700/800 series) | High-end Qualcomm Snapdragon (Snapdragon 8 Gen 1 or higher recommended) |
 | **RAM (Memory)** | 6 GB RAM | 8 GB - 12 GB RAM (or higher) |
 | **Storage (Speed)** | High-speed storage (UFS 3.1 or superior recommended) | Ultra-fast UFS 3.1/4.0 storage |
